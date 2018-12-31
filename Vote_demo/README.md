@@ -32,20 +32,20 @@ npm run dev
 
 + 初始界面
 
-  ![](image\1.png)
+  ![](./image/1.png)
 
 + 选择界面
 
-  ![](image\2.png)
+  ![](./image/2.png)
 
 + 投票确认
 
-  ![](image\3.png)
+  ![](./image/3.png)
 
 + 投票后界面
 
-  ![](image\4.png)
+  ![](./image/4.png)
 
 + 后台界面
 
-  ![](image\5.png)
+  ![](./image/5.png)
